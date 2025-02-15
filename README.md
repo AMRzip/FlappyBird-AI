@@ -26,8 +26,8 @@ This project implements an AI that learns to play Flappy Bird using the NEAT (Ne
 
 1. Clone the repository
 ```bash
-git clone https://github.com/[your-username]/flappy-bird-neat.git
-cd flappy-bird-neat
+git clone https://github.com/AMRzip/FlappyBird-AI.git
+cd FlappyBird-AI
 ```
 
 2. Install required packages
@@ -43,7 +43,7 @@ python main.py
 ## Project Structure
 
 ```
-flappy-bird-neat/
+FlappyBird-AI/
 │
 ├── main.py           # Main game and NEAT implementation
 ├── config.txt        # NEAT configuration file
